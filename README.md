@@ -24,4 +24,4 @@ A simple web-based Calendar Scheduler that allows users to register, log in, and
 3. Start scheduling appointments.
 
 ## 👨‍💻 Author
-**Punith Adapureddi**
+**Ashok Lagudu**
